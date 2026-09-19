@@ -47,4 +47,4 @@ Dense(10, softmax)
 After training, the script prints a full classification report (precision, recall, F1-score) on the test set.
 
 ## Author
-[Your Name]
+SHAM.A
